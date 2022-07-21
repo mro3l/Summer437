@@ -28,6 +28,6 @@
 ##### Update:
 
 7/21/22:
-* Added Wirefram 1.png 
-
+* Added Wirefram 0.png  (Skeleton concept of the interface of the app) 
+* Added Wirefram 1.png  (refined interface concept)
 -----------------------------------------------
