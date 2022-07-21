@@ -12,6 +12,8 @@
 
 > This will be for myself
 
+---------------------------------------------------
+
 ### Project Details:
 > Platform:
 	Android (Marshmallow)
@@ -21,3 +23,11 @@
 
 > Functionality:
 	Simple number and calculations such as addition, subtraction, multiplication, division, with clear (reset). 
+
+-----------------------------------------------
+##### Update:
+
+7/21/22:
+* Added Wirefram 1.png
+
+-----------------------------------------------
