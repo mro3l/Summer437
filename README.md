@@ -31,3 +31,5 @@
 * Added Wirefram 0.png  (Skeleton concept of the interface of the app) 
 * Added Wirefram 1.png  (refined interface concept)
 -----------------------------------------------
+8/11/22
+* Channging the to Window environment development process
