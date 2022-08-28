@@ -33,3 +33,6 @@
 -----------------------------------------------
 8/11/22
 * Channging the to Window environment development process
+-----------------------------------------------
+8/27/22
+*Complete the basic calculator with basic design
